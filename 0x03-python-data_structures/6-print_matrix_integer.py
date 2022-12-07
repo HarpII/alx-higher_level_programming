@@ -1,10 +1,10 @@
 #!/usr/bin/python3
 
 def print_matrix_integer(matrix=[[]]):
-    
+
     lengthOfMatrix = len(matrix)
-    
-    if lengthOfMatrix == 0:
+
+    if lengthOfMatrix == 1:
         print()
     else:
         for i in range(lengthOfMatrix):
