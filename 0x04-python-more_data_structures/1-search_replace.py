@@ -9,4 +9,3 @@ def search_replace(my_list, search, replace):
             new[j] = replace
 
     return (new)
-
